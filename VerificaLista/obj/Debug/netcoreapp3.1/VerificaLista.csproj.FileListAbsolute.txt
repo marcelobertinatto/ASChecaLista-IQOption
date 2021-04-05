@@ -1,0 +1,13 @@
+E:\Marcelo\Sandbox\GIT\ASChecaLista-IQOption\VerificaLista\bin\Debug\netcoreapp3.1\VerificaLista.exe
+E:\Marcelo\Sandbox\GIT\ASChecaLista-IQOption\VerificaLista\bin\Debug\netcoreapp3.1\VerificaLista.deps.json
+E:\Marcelo\Sandbox\GIT\ASChecaLista-IQOption\VerificaLista\bin\Debug\netcoreapp3.1\VerificaLista.runtimeconfig.json
+E:\Marcelo\Sandbox\GIT\ASChecaLista-IQOption\VerificaLista\bin\Debug\netcoreapp3.1\VerificaLista.runtimeconfig.dev.json
+E:\Marcelo\Sandbox\GIT\ASChecaLista-IQOption\VerificaLista\bin\Debug\netcoreapp3.1\VerificaLista.dll
+E:\Marcelo\Sandbox\GIT\ASChecaLista-IQOption\VerificaLista\bin\Debug\netcoreapp3.1\VerificaLista.pdb
+E:\Marcelo\Sandbox\GIT\ASChecaLista-IQOption\VerificaLista\obj\Debug\netcoreapp3.1\VerificaLista.csprojAssemblyReference.cache
+E:\Marcelo\Sandbox\GIT\ASChecaLista-IQOption\VerificaLista\obj\Debug\netcoreapp3.1\VerificaLista.AssemblyInfoInputs.cache
+E:\Marcelo\Sandbox\GIT\ASChecaLista-IQOption\VerificaLista\obj\Debug\netcoreapp3.1\VerificaLista.AssemblyInfo.cs
+E:\Marcelo\Sandbox\GIT\ASChecaLista-IQOption\VerificaLista\obj\Debug\netcoreapp3.1\VerificaLista.csproj.CoreCompileInputs.cache
+E:\Marcelo\Sandbox\GIT\ASChecaLista-IQOption\VerificaLista\obj\Debug\netcoreapp3.1\VerificaLista.dll
+E:\Marcelo\Sandbox\GIT\ASChecaLista-IQOption\VerificaLista\obj\Debug\netcoreapp3.1\VerificaLista.pdb
+E:\Marcelo\Sandbox\GIT\ASChecaLista-IQOption\VerificaLista\obj\Debug\netcoreapp3.1\VerificaLista.genruntimeconfig.cache

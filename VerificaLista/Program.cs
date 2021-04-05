@@ -19,7 +19,8 @@ namespace VerificaLista
             int b = 2;
 
             Process p = new Process(); // create process (i.e., the python program
-            p.StartInfo.FileName = "/Library/Frameworks/Python.framework/Versions/3.9/bin/python3";
+            //p.StartInfo.FileName = "/Library/Frameworks/Python.framework/Versions/3.9/bin/python3";
+            p.StartInfo.FileName = "python.exe";
             p.StartInfo.RedirectStandardOutput = true;
             p.StartInfo.UseShellExecute = false; // make sure we can read the output from stdout
             //p.StartInfo.Arguments = "bot_.py " + a + " " + b; // start the python program with two parameters
