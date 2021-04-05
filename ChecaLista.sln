@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.809.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChecaLista", "ChecaLista\ChecaLista.csproj", "{2CA8B4AA-0737-4CD0-A351-A3D206C3D096}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerificaLista", "VerificaLista\VerificaLista.csproj", "{9197AF14-B924-465B-AE4E-673EC8EBD112}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -15,6 +17,10 @@ Global
 		{2CA8B4AA-0737-4CD0-A351-A3D206C3D096}.Debug|anycpu.Build.0 = Debug|anycpu
 		{2CA8B4AA-0737-4CD0-A351-A3D206C3D096}.Release|anycpu.ActiveCfg = Release|anycpu
 		{2CA8B4AA-0737-4CD0-A351-A3D206C3D096}.Release|anycpu.Build.0 = Release|anycpu
+		{9197AF14-B924-465B-AE4E-673EC8EBD112}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{9197AF14-B924-465B-AE4E-673EC8EBD112}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{9197AF14-B924-465B-AE4E-673EC8EBD112}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{9197AF14-B924-465B-AE4E-673EC8EBD112}.Release|anycpu.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
